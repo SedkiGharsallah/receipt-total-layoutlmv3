@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+seqeval
+pytesseract
+python-doctr
+huggingface_hub
+pandas
+numpy
+matplotlib
+Pillow
